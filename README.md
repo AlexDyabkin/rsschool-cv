@@ -1,2 +1,2 @@
-# rsschool-cv
-Markdown &amp; Git
+# https://github.com/AlexDyabkin/rsschool-cv.git
+
